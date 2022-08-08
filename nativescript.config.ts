@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from '@nativescript/core';
 
 export default {
-  id: 'org.nativescript.LosungenNative',
+  id: 'de.awesomebible.Losungen',
   appPath: 'app',
   appResourcesPath: 'App_Resources',
   android: {
